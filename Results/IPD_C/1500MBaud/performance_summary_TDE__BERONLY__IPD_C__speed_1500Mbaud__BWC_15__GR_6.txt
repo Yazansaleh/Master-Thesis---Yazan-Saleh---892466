@@ -1,0 +1,46 @@
+Optical Performance Summary (BER only, FIRST PASS BAND ONLY)
+===========================================================
+
+Mode: TDE (fixed)
+Speed: 1500Mbaud
+Sweep: IPD_C (outer)
+Fixed config in file: BWC=15, GR=6
+
+BER threshold: 1.0e-03
+
+IPD_C = 0
+  BEST_DR   (BWC=15, GR=6) | MinP=-29.24 dBm | DR=18.09 dB | MaxP=-11.15 dBm
+  BEST_MINP (BWC=15, GR=6) | MinP=-29.24 dBm | DR=18.09 dB | MaxP=-11.15 dBm
+
+IPD_C = 1
+  BEST_DR   (BWC=15, GR=6) | MinP=-29.25 dBm | DR=19.25 dB | MaxP=-10.00 dBm
+  BEST_MINP (BWC=15, GR=6) | MinP=-29.25 dBm | DR=19.25 dB | MaxP=-10.00 dBm
+
+IPD_C = 2
+  BEST_DR   (BWC=15, GR=6) | MinP=-28.23 dBm | DR=18.23 dB | MaxP=-10.00 dBm
+  BEST_MINP (BWC=15, GR=6) | MinP=-28.23 dBm | DR=18.23 dB | MaxP=-10.00 dBm
+
+IPD_C = 7
+  BEST_DR   (BWC=15, GR=6) | MinP=-28.16 dBm | DR=18.16 dB | MaxP=-10.00 dBm
+  BEST_MINP (BWC=15, GR=6) | MinP=-28.16 dBm | DR=18.16 dB | MaxP=-10.00 dBm
+
+IPD_C = 14
+  BEST_DR   (BWC=15, GR=6) | MinP=-29.19 dBm | DR=19.19 dB | MaxP=-10.00 dBm
+  BEST_MINP (BWC=15, GR=6) | MinP=-29.19 dBm | DR=19.19 dB | MaxP=-10.00 dBm
+
+IPD_C = 15
+  BEST_DR   (BWC=15, GR=6) | MinP=-28.10 dBm | DR=18.10 dB | MaxP=-10.00 dBm
+  BEST_MINP (BWC=15, GR=6) | MinP=-28.10 dBm | DR=18.10 dB | MaxP=-10.00 dBm
+
+*** OVERALL BEST_DR (maximize DR) ***
+Best IPD_C: 1 | (BWC=15, GR=6)
+MinP=-29.25 dBm| DR=19.25 dB | MaxP=-10.00 dBm
+
+*** OVERALL BEST_MINP (lowest minPower) ***
+Best IPD_C: 1 | (BWC=15, GR=6)
+MinP=-29.25 dBm | DR=19.25 dB | MaxP=-10.00 dBm
+
+*** OVERALL BEST_BALANCED (low power AND good DR) ***
+Best IPD_C: 1 | (BWC=15, GR=6)
+MinP=-29.25 dBm | DR=19.25 dB | MaxP=-10.00 dBm
+
